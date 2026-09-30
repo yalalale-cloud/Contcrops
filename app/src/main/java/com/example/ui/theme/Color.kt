@@ -1,0 +1,28 @@
+package com.example.ui.theme
+
+import androidx.compose.ui.graphics.Color
+
+val ContGreen = Color(0xFF16A34A)
+val ContGreenLight = Color(0xFFE8F5E9)
+val ContGreenDark = Color(0xFF14532D)
+val ContBlack = Color(0xFF12110F)
+val ContCreamBg = Color(0xFFFDFBF7)
+val ContCardBg = Color(0xFFFFFFFF)
+val ContBorder = Color(0xFFF1EBE1)
+val ContBorderLight = Color(0xFFEFE8DB)
+val ContTextPrimary = Color(0xFF12110F)
+val ContTextSecondary = Color(0xFF7A7368)
+val ContTextMuted = Color(0xFF9B958C)
+val ContGold = Color(0xFFF59E0B)
+val ContGoldBg = Color(0xFFFEF3C7)
+val ContGoldDark = Color(0xFFD97706)
+val ContRed = Color(0xFFEF4444)
+val ContRedLight = Color(0xFFFEE2E2)
+val ContBlue = Color(0xFF0EA5E9)
+val ContBlueLight = Color(0xFFE3F2FD)
+val ContPurple = Color(0xFF7C3AED)
+val ContPurpleLight = Color(0xFFEDE7F6)
+val ContPink = Color(0xFFEC4899)
+val ContPinkLight = Color(0xFFFCE4EC)
+val ContOrange = Color(0xFFEA580C)
+val ContOrangeLight = Color(0xFFFFF3E0)

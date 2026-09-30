@@ -1,0 +1,6 @@
+{
+  "name": "ContCrops",
+  "description": "سوق الجملة الزراعي الاجتماعي - تداول المحاصيل وأسعار الأسواق والموجز الإخباري",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
